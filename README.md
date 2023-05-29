@@ -42,7 +42,7 @@ router.get('/keep-alive', (req, res, next) => {
 
 - You shouldn't return the data that you receive from the database, it's not needed.
 
-2. Go to [Keep me Alive](https://keep.fly.dev/)
+2. Go to [Keep me Alive](https://keep-me-alive.adaptable.app/)
 
 3. Register an account
 
