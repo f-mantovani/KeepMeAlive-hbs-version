@@ -12,7 +12,7 @@
 
 - An app where users can add their projects. The app will keep them alive.
 
-- Online version: https://keep.fly.dev/
+- [Online version](https://keepmealive.onrender.com/)
 
 ### How the app keeps a project alive?
 
